@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://kleeja.net">
-    <img src="logo-light.png" alt="Kleeja" width="120">
+    <img src="https://avatars.githubusercontent.com/u/49375453" alt="Kleeja" width="120">
   </a>
 </p>
 
